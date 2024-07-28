@@ -84,3 +84,8 @@ This template provides a minimal setup to get React 19 working in Vite with HMR 
   }
 
 ```
+
+## clerk 사이트 로그인 인증처리
+```
+https://clerk.com/
+```
