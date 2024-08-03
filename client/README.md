@@ -95,3 +95,10 @@ This template provides a minimal setup to get React 19 working in Vite with HMR 
 ```
 https://clerk.com/
 ```
+
+## 구글 Gemini API SDK 설치하기
+
+```
+npm install -f @google/generative-ai
+npm i -f react-markdown
+```
