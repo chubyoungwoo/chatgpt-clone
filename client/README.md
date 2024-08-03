@@ -2,9 +2,14 @@
 
 This template provides a minimal setup to get React 19 working in Vite with HMR and some ESLint rules.
 
+## node 버전 20.70.0 사용
+
 # jsx 스니팻 설정
+
 ## file->preferences->Configure User snippets
+
 ### 검색창에 jsx 검색후 jsx javascriptreact.json 파일에 붙여 넣는다
+
 ```
 
 	{
@@ -19,7 +24,7 @@ This template provides a minimal setup to get React 19 working in Vite with HMR 
 		 "  )",
 		 "}",
 		 "",
-		 "export default ${1:${TM_FILENAME_BASE/(.)(.*)/${1:/capitalize}${2}/}}" 
+		 "export default ${1:${TM_FILENAME_BASE/(.)(.*)/${1:/capitalize}${2}/}}"
 		   ],
 		   "description": "Create an arrow component with css"
 	   },
@@ -49,7 +54,7 @@ This template provides a minimal setup to get React 19 working in Vite with HMR 
 			   "  )",
 			   "}",
 			   "",
-			   "export default ${1:${TM_FILENAME_BASE/(.)(.*)/${1:/capitalize}${2}/}}" 
+			   "export default ${1:${TM_FILENAME_BASE/(.)(.*)/${1:/capitalize}${2}/}}"
 	   ],
 	   "description": "Create an arrow component with Sass"
 	   },
@@ -62,7 +67,7 @@ This template provides a minimal setup to get React 19 working in Vite with HMR 
 		 "  )",
 		 "}",
 		 "",
-		 "export default ${1:${TM_FILENAME_BASE/(.)(.*)/${1:/capitalize}${2}/}}" 
+		 "export default ${1:${TM_FILENAME_BASE/(.)(.*)/${1:/capitalize}${2}/}}"
 		   ],
 		   "description": "Create a component"
 	   },
@@ -75,17 +80,18 @@ This template provides a minimal setup to get React 19 working in Vite with HMR 
 		 "  )",
 		 "}",
 		 "",
-		 "export default ${1:${TM_FILENAME_BASE/(.)(.*)/${1:/capitalize}${2}/}}" 
+		 "export default ${1:${TM_FILENAME_BASE/(.)(.*)/${1:/capitalize}${2}/}}"
 		   ],
 		   "description": "Create a component with tailwind classname"
 	   }
-   
-   
+
+
   }
 
 ```
 
 ## clerk 사이트 로그인 인증처리
+
 ```
 https://clerk.com/
 ```
