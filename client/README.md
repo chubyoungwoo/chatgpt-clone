@@ -92,9 +92,7 @@ This template provides a minimal setup to get React 19 working in Vite with HMR 
 
 ## clerk 사이트 로그인 인증처리
 
-```
-https://clerk.com/
-```
+# [clerk] (https://clerk.com/)
 
 ## 구글 Gemini API SDK 설치하기
 
@@ -102,3 +100,7 @@ https://clerk.com/
 npm install -f @google/generative-ai
 npm i -f react-markdown
 ```
+
+## tanstack.com 반응형 쿼리
+
+## [반응형쿼리 TanStack] (https://tanstack.com/)
